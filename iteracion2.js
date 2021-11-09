@@ -28,5 +28,3 @@ for (var alumn of alumns) {
 
   console.log(alumn.name + " - " + isApproved);
 }
-
-//MAL
